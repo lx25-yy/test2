@@ -1,2 +1,1 @@
-# test2
-test
+Deep Learning-Powered Multimodal Model Integrating Sonography Radiomics and Clinical Features as a new technology Outperforms Conventional and Handcrafted Approaches for Differentiating Parkinson's Disease from Parkinsonian Syndromes
